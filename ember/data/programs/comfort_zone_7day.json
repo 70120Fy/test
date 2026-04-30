@@ -1,0 +1,63 @@
+{
+  "programId": "comfort_zone_7day",
+  "title": "7-Day Comfort Zone Expansion",
+  "blockId": "comfort_zone_trap",
+  "duration": 7,
+  "description": "Your comfort zone isn't comfortable — it's familiar. This program helps you expand beyond it.",
+  "outcomes": [
+    "Identify your comfort zone limits",
+    "Take small risks outside your comfort zone",
+    "Build confidence in your ability to handle discomfort"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "The Comfort Zone Map",
+      "insight": "What's inside your comfort zone? What feels safe? What's outside? Identify the boundary.",
+      "action": "Draw your comfort zone. What's inside? What's outside? What would it take to step outside today?",
+      "reflectionQuestion": "What feels safe right now?"
+    },
+    {
+      "day": 2,
+      "title": "The Small Risk",
+      "insight": "You don't need to skydive to expand your comfort zone. Start small.",
+      "action": "Do one thing today that's slightly outside your comfort zone. Talk to a stranger. Try something new.",
+      "reflectionQuestion": "What's a small risk I can take today?"
+    },
+    {
+      "day": 3,
+      "title": "The Discomfort Log",
+      "insight": "When you feel discomfort, log it. Notice: the discomfort passes. You're still okay.",
+      "action": "When you feel discomfort today, pause and log: What am I feeling? How intense is it? How long does it last?",
+      "reflectionQuestion": "What did I feel uncomfortable about today?"
+    },
+    {
+      "day": 4,
+      "title": "The Novelty Challenge",
+      "insight": "Novelty expands your comfort zone. Change creates growth.",
+      "action": "Change one small thing about your routine today. Take a different route. Try a different food.",
+      "reflectionQuestion": "What can I change in my routine today?"
+    },
+    {
+      "day": 5,
+      "title": "The 'No' Practice",
+      "insight": "Saying 'no' is a skill. Practice it. It's okay to set boundaries.",
+      "action": "Say 'no' to one thing today. It can be small — 'no' to an extra commitment, 'no' to a distraction.",
+      "reflectionQuestion": "What can I say 'no' to today?"
+    },
+    {
+      "day": 6,
+      "title": "The Challenge Response",
+      "insight": "When faced with a challenge, your default might be to retreat. Practice responding differently.",
+      "action": "When faced with a challenge today, pause. Ask: 'What's the brave thing to do?' Then do that.",
+      "reflectionQuestion": "What would the brave version of me do?"
+    },
+    {
+      "day": 7,
+      "title": "The Expansion",
+      "insight": "Your comfort zone expands when you push the boundaries. Celebrate your growth.",
+      "action": "Write down three things you did this week that were outside your comfort zone. Celebrate them.",
+      "reflectionQuestion": "How has my comfort zone expanded this week?"
+    }
+  ]
+}

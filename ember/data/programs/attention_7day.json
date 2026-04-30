@@ -1,0 +1,63 @@
+{
+  "programId": "attention_7day",
+  "title": "7-Day Attention Recovery",
+  "blockId": "attention_fragmentation",
+  "duration": 7,
+  "description": "Your attention leaks through a thousand small holes. This program helps you reclaim your focus.",
+  "outcomes": [
+    "Identify your attention leaks",
+    "Create focus rituals",
+    "Build sustained attention stamina"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "The Attention Audit",
+      "insight": "Where does your attention go? What's pulling it away? Identify your distractions.",
+      "action": "Track your attention for one hour. When you notice your attention has wandered, write down: where did it go?",
+      "reflectionQuestion": "Where does my attention go when it wanders?"
+    },
+    {
+      "day": 2,
+      "title": "The 25-Minute Focus Block",
+      "insight": "Deep work happens in focused blocks. Start small and build up.",
+      "action": "Set a timer for 25 minutes. Focus on one task. No phone. No email. Nothing else.",
+      "reflectionQuestion": "What task deserves 25 minutes of focus?"
+    },
+    {
+      "day": 3,
+      "title": "The Phone Detox",
+      "insight": "Your phone is designed to capture your attention. Take it back.",
+      "action": "Put your phone in another room for 2 hours. See what it feels like to focus without the pull.",
+      "reflectionQuestion": "What would happen if my phone wasn't nearby?"
+    },
+    {
+      "day": 4,
+      "title": "The Single-Task Challenge",
+      "insight": "Multitasking is a myth. You're just switching between tasks, draining your attention.",
+      "action": "Today, do one thing at a time. Finish what you start before moving to the next.",
+      "reflectionQuestion": "What can I finish before starting something else?"
+    },
+    {
+      "day": 5,
+      "title": "The注意力 Reset",
+      "insight": "When attention is scattered, reset. Return to the present moment.",
+      "action": "When you notice your attention is scattered, pause. Take 3 deep breaths. Ask: what's happening right now?",
+      "reflectionQuestion": "What's happening in this moment?"
+    },
+    {
+      "day": 6,
+      "title": "The Environment Check",
+      "insight": "Your environment shapes your attention. Create a focus-friendly space.",
+      "action": "Clean your workspace. Remove one distraction. Add one thing that helps you focus.",
+      "reflectionQuestion": "What's distracting me right now?"
+    },
+    {
+      "day": 7,
+      "title": "The Focus Celebration",
+      "insight": "You've reclaimed your attention. Celebrate your focus.",
+      "action": "Write down three moments today when you focused deeply. Celebrate your focus.",
+      "reflectionQuestion": "When did I focus deeply today?"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "programId": "fear_of_failure_7day",
+  "title": "7-Day Fear of Failure Desensitization",
+  "blockId": "fear_of_failure",
+  "duration": 7,
+  "description": "Procrastination protects you from risking failure. If you never start, you never fail. This program breaks that pattern.",
+  "outcomes": [
+    "Reduce fear of failure through exposure",
+    "Reframe failure as learning",
+    "Build resilience through action"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Failure Inventory",
+      "insight": "What are you afraid will happen if you fail? List it. Then ask: what's the worst that could actually happen?",
+      "action": "Write down your fear of failure. Then write: 'The worst that could happen is...' Be brutally honest.",
+      "reflectionQuestion": "What's the worst that could happen if I fail?"
+    },
+    {
+      "day": 2,
+      "title": "The Minimum Viable Failure",
+      "insight": "You don't need to do something big to fail. Do something small and let yourself fail at it.",
+      "action": "Do something today where you intentionally do it poorly. Send a quick email. Make a quick sketch. Ship it.",
+      "reflectionQuestion": "What's the smallest, lowest-stakes thing I can fail at?"
+    },
+    {
+      "day": 3,
+      "title": "Failure Debrief",
+      "insight": "When you do fail, debrief. What did you learn? How can you do better next time?",
+      "action": "When something doesn't go well, ask: 1) What happened? 2) What did I learn? 3) What will I do differently?",
+      "reflectionQuestion": "What did I learn from this failure?"
+    },
+    {
+      "day": 4,
+      "title": "The Learning Loop",
+      "insight": "Failure isn't the opposite of success — it's part of it. Every failure gets you closer to success.",
+      "action": "Look at something that didn't go well. What can you learn from it? How can you use this to improve?",
+      "reflectionQuestion": "What's the lesson in this?"
+    },
+    {
+      "day": 5,
+      "title": "Exposure Therapy",
+      "insight": "Fear shrinks when you expose yourself to it. Do something that makes you uncomfortable today.",
+      "action": "Do something that makes your heart race a little. It can be talking to a stranger, asking a question, trying something new.",
+      "reflectionQuestion": "What made me uncomfortable today? Why?"
+    },
+    {
+      "day": 6,
+      "title": "The Progress Over Perfect",
+      "insight": "Perfection is the enemy of progress. Done is better than perfect. Ship it.",
+      "action": "Find something that's 'almost done'. Mark it done. Celebrate. Move on.",
+      "reflectionQuestion": "What can I ship today that doesn't need to be perfect?"
+    },
+    {
+      "day": 7,
+      "title": "The Celebration",
+      "insight": "You've faced your fear of failure. Celebrate your progress.",
+      "action": "Write down three things you did this week that you would have avoided last week. Celebrate your growth.",
+      "reflectionQuestion": "What am I proud of for trying?"
+    }
+  ]
+}

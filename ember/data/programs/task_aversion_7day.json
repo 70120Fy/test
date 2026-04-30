@@ -1,0 +1,63 @@
+{
+  "programId": "task_aversion_7day",
+  "title": "7-Day Task Aversion Cure",
+  "blockId": "task_aversion",
+  "duration": 7,
+  "description": "Some tasks feel so unpleasant that avoiding them has become a relief mechanism. This program breaks that pattern.",
+  "outcomes": [
+    "Identify tasks you're avoiding and why",
+    "Make unpleasant tasks more enjoyable",
+    "Build momentum through small actions"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "The Avoidance List",
+      "insight": "What tasks do you consistently avoid? Why? Is it because they're unpleasant, confusing, or meaningless?",
+      "action": "Write down 5 tasks you've been avoiding. For each, write: Why am I avoiding this? What makes it unpleasant?",
+      "reflectionQuestion": "What task am I avoiding and why?"
+    },
+    {
+      "day": 2,
+      "title": "The Minimum Viable Action",
+      "insight": "You don't need to do the whole task to start. You just need to do the smallest first step.",
+      "action": "Choose one task you're avoiding. What's the smallest first step? Do that one thing. Nothing else.",
+      "reflectionQuestion": "What's the smallest first step for this task?"
+    },
+    {
+      "day": 3,
+      "title": "The Pairing Trick",
+      "insight": "Pair unpleasant tasks with pleasant activities. Make the work worth the effort.",
+      "action": "Choose one unpleasant task. What can you pair it with? Music? Coffee? A walk afterward?",
+      "reflectionQuestion": "What can I pair with this unpleasant task?"
+    },
+    {
+      "day": 4,
+      "title": "The 5-Minute Rule",
+      "insight": "You can always stop after 5 minutes. But many times, you'll keep going.",
+      "action": "Set a timer for 5 minutes. Work on the task. When the timer goes off, you can stop. See what happens.",
+      "reflectionQuestion": "What would I do if I only had 5 minutes?"
+    },
+    {
+      "day": 5,
+      "title": "The Body Double",
+      "insight": "Working with someone else makes unpleasant tasks more bearable. Even if you're not working together.",
+      "action": "Find a quiet place to work with someone else. Even if you're both working separately, your presence helps.",
+      "reflectionQuestion": "Who can I work with today?"
+    },
+    {
+      "day": 6,
+      "title": "The Progress Loop",
+      "insight": "Done feels better than not done. Action creates momentum.",
+      "action": "Complete one task you've been avoiding. Write it down. Check it off. Feel the relief.",
+      "reflectionQuestion": "What can I complete today?"
+    },
+    {
+      "day": 7,
+      "title": "The Reward System",
+      "insight": "Reward effort, not just results. This builds a new association with unpleasant tasks.",
+      "action": "Choose a reward for completing unpleasant tasks. It can be small — a coffee, 10 minutes of social media.",
+      "reflectionQuestion": "What's a small reward I can give myself for doing unpleasant work?"
+    }
+  ]
+}

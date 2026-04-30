@@ -1,0 +1,63 @@
+{
+  "programId": "future_self_7day",
+  "title": "7-Day Future Self Connection",
+  "blockId": "future_self_disconnect",
+  "duration": 7,
+  "description": "Your brain treats your future self like a stranger. This program helps you build a connection with who you're becoming.",
+  "outcomes": [
+    "Connect with your future self as a real person",
+    "Make decisions that consider long-term consequences",
+    "Build empathy for who you'll be tomorrow"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Letter to Future Self",
+      "insight": "Writing to your future self creates a bridge between present and future. You're not separate people.",
+      "action": "Write a letter to your future self. What do you want them to know? What advice do you have? What are you working toward?",
+      "reflectionQuestion": "Who do you want to become?"
+    },
+    {
+      "day": 2,
+      "title": "The 10-Year Test",
+      "insight": "Ask: will this matter in 10 years? Most of what feels urgent today won't.",
+      "action": "When making a decision, ask: will this matter in 10 years? If not, simplify. If yes, prioritize.",
+      "reflectionQuestion": "What will matter in 10 years?"
+    },
+    {
+      "day": 3,
+      "title": "Future Self Visualization",
+      "insight": "Your brain needs to see your future self as real. Visualization makes it tangible.",
+      "action": "Visualize your future self for 5 minutes. Imagine their home, their life, their days. What do they value? How do they act?",
+      "reflectionQuestion": "What does my future self look like?"
+    },
+    {
+      "day": 4,
+      "title": "Small Wins for Future Self",
+      "insight": "Future self is built through small, consistent actions today.",
+      "action": "Do one thing today that future you will thank present you for. It can be tiny — a 5-minute walk, a saved dollar.",
+      "reflectionQuestion": "What small action will future me appreciate?"
+    },
+    {
+      "day": 5,
+      "title": "The Empathy Shift",
+      "insight": "Treat future self like you'd treat a friend you care about. Would you set them up for failure?",
+      "action": "Before making a decision, ask: am I treating future self like a friend? Would I want this for someone I love?",
+      "reflectionQuestion": "How would I treat a friend in this situation?"
+    },
+    {
+      "day": 6,
+      "title": "Values Alignment",
+      "insight": "Future self is built on present choices that align with your values.",
+      "action": "List your top 3 values. Look at your current tasks. Which align with these values? Which don't? Adjust accordingly.",
+      "reflectionQuestion": "Do my actions align with my values?"
+    },
+    {
+      "day": 7,
+      "title": "Gratitude for Future Self",
+      "insight": "Gratitude creates connection. Thank future self for all they'll become.",
+      "action": "Write a gratitude letter to your future self. Thank them for the work they're doing, the growth they're doing, the person they're becoming.",
+      "reflectionQuestion": "What am I grateful for about my future self?"
+    }
+  ]
+}

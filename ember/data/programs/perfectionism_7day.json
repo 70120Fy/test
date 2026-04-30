@@ -1,0 +1,63 @@
+{
+  "programId": "perfectionism_7day",
+  "title": "7-Day Perfectionism Reset",
+  "blockId": "perfectionism_paralysis",
+  "duration": 7,
+  "description": "When everything has to be perfect, nothing gets done. This program dismantles the perfectionism trap one day at a time.",
+  "outcomes": [
+    "Ship work at 70% without anxiety",
+    "Recognize perfectionism as fear, not standards",
+    "Build momentum through imperfect action"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "The Terrible First Draft",
+      "insight": "Perfectionism isn't high standards — it's fear disguised as virtue. You're not trying to be excellent; you're trying to avoid the vulnerability of being seen trying.",
+      "action": "Do ONE thing badly on purpose today. Send that email without re-reading it twice. Write that messy paragraph. Notice: the world didn't end.",
+      "reflectionQuestion": "What did you protect yourself from by not doing this before?"
+    },
+    {
+      "day": 2,
+      "title": "The 70% Standard",
+      "insight": "The 70% rule: if it's 70% good enough, ship it. The last 30% takes 80% of the time and rarely changes outcomes.",
+      "action": "Pick one task you've been overthinking. Do it to 70% and STOP. Walk away. Notice the discomfort — that's your perfectionism, not your standards.",
+      "reflectionQuestion": "Where in your life are you spending 80% of effort on the last 30%?"
+    },
+    {
+      "day": 3,
+      "title": "Shipping the Thing",
+      "insight": "Done is better than perfect. The world rewards completion, not excellence at the start.",
+      "action": "Choose one thing that's been sitting in 'drafts' or 'in progress'. Publish it. Send it. Ship it. No revisions allowed.",
+      "reflectionQuestion": "What would happen if this wasn't your last chance to get it right?"
+    },
+    {
+      "day": 4,
+      "title": "The Permission slip",
+      "insight": "Perfectionists need permission to be imperfect. We're giving you that permission.",
+      "action": "Write yourself a permission slip: 'I am allowed to do this badly. I am allowed to ship it. I am enough.'",
+      "reflectionQuestion": "What have you been denying yourself permission to do?"
+    },
+    {
+      "day": 5,
+      "title": "Imperfect Action",
+      "insight": "Action creates momentum. Perfection creates stagnation. Momentum beats perfection every time.",
+      "action": "Do something related to your work in a way that's clearly imperfect. Record a video. Write a tweet. Make a粗糙 plan.",
+      "reflectionQuestion": "What would you do today if you knew you couldn't fail?"
+    },
+    {
+      "day": 6,
+      "title": "Feedback Over Perfection",
+      "insight": "Feedback is information. It's not judgment. It's how you improve. Perfectionism keeps you isolated. Feedback brings you connection.",
+      "action": "Share something you've been working on with one person. Ask for one piece of feedback. No defensiveness allowed.",
+      "reflectionQuestion": "What's the difference between feedback and criticism?"
+    },
+    {
+      "day": 7,
+      "title": "The Completion Ritual",
+      "insight": "Completion is its own reward. It's the closing of a loop. Perfectionism keeps things open, unresolved.",
+      "action": "Take one project that's 'almost done'. Mark it 'done'. Celebrate. Close the loop.",
+      "reflectionQuestion": "What loop have you been keeping open that you need to close?"
+    }
+  ]
+}

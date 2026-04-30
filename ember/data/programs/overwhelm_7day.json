@@ -1,0 +1,63 @@
+{
+  "programId": "overwhelm_7day",
+  "title": "7-Day Overwhelm Recovery",
+  "blockId": "overwhelm_paralysis",
+  "duration": 7,
+  "description": "When everything feels like too much, start with one thing. This program helps you break through overwhelm and find your starting point.",
+  "outcomes": [
+    "Find your first step when everything feels overwhelming",
+    "Break large tasks into manageable pieces",
+    "Build momentum through small wins"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "The Single Step",
+      "insight": "Overwhelm happens when you see the mountain, not the first step. Your brain needs a clear starting point.",
+      "action": "Identify ONE task that feels overwhelming. Write down the very first physical action required to start it. Then do that one thing.",
+      "reflectionQuestion": "What's the smallest, most obvious first step?"
+    },
+    {
+      "day": 2,
+      "title": "The Two-Minute Rule",
+      "insight": "If a task takes less than two minutes, do it immediately. This clears mental clutter and builds momentum.",
+      "action": "Go through your tasks and complete all the two-minute items. Then look at the next item and ask: what's the two-minute version of this?",
+      "reflectionQuestion": "What tasks have you been avoiding that take less than two minutes?"
+    },
+    {
+      "day": 3,
+      "title": "The Big Picture",
+      "insight": "When overwhelmed, zoom out. Ask: what's the one thing that would make the biggest difference right now?",
+      "action": "List all your tasks. Circle the one that, if done, would make everything else easier or clearer.",
+      "reflectionQuestion": "What's the one thing that would make everything else easier?"
+    },
+    {
+      "day": 4,
+      "title": "Delegation or Deletion",
+      "insight": "Overwhelm often comes from doing things that don't matter. Learn to say no or delegate.",
+      "action": "Look at your tasks. Which ones can be delegated? Which can be deleted entirely? Write the emails or messages now.",
+      "reflectionQuestion": "What am I doing that doesn't require my unique skills?"
+    },
+    {
+      "day": 5,
+      "title": "Time Blocking",
+      "insight": "Overwhelm is often about unclear priorities. Time blocking creates clarity.",
+      "action": "Take 30 minutes of your day and block it for one specific task. No exceptions. No distractions. Just do it.",
+      "reflectionQuestion": "What do I actually have time for today?"
+    },
+    {
+      "day": 6,
+      "title": "The Reset",
+      "insight": "When overwhelmed, sometimes the best move is to step away. Your brain needs space to reset.",
+      "action": "Take a 15-minute break. No phone. No email. Just walk, breathe, or close your eyes.",
+      "reflectionQuestion": "What would help me reset right now?"
+    },
+    {
+      "day": 7,
+      "title": "Progress Over Perfection",
+      "insight": "You don't need to get everything done. You need to make progress. Done is better than perfect.",
+      "action": "Look at what you've accomplished this week. Not what's left. Celebrate the progress, however small.",
+      "reflectionQuestion": "What progress have I made that I'm proud of?"
+    }
+  ]
+}

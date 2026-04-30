@@ -1,0 +1,63 @@
+{
+  "programId": "fear_of_success_7day",
+  "title": "7-Day Fear of Success Release",
+  "blockId": "fear_of_success",
+  "duration": 7,
+  "description": "Success brings pressure, exposure, and change. This program helps you release the fear that's holding you back.",
+  "outcomes": [
+    "Identify the hidden costs of success",
+    "Release the fear of what success might bring",
+    "Embrace growth and change"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Success Audit",
+      "insight": "Fear of success is often about what success might cost you — relationships, comfort, identity.",
+      "action": "Write down your biggest success. Then list what that success might cost you. Then list what it would gain you.",
+      "reflectionQuestion": "What do I fear success will cost me?"
+    },
+    {
+      "day": 2,
+      "title": "The Exposure Exercise",
+      "insight": "Success means more eyes on you. Learn to be comfortable with attention.",
+      "action": "Do one thing today where you'll be noticed. Not because you need to, but because you want to practice.",
+      "reflectionQuestion": "What am I afraid people will see if I succeed?"
+    },
+    {
+      "day": 3,
+      "title": "Identity Check",
+      "insight": "Success changes your identity. You're not the same person you were before.",
+      "action": "Write down who you are today. Then write down who you want to be after your success. What's the difference?",
+      "reflectionQuestion": "Who will I need to become to succeed?"
+    },
+    {
+      "day": 4,
+      "title": "The Comparison Trap",
+      "insight": "Success brings comparison. Learn to ignore it and focus on your own path.",
+      "action": "When you catch yourself comparing, say: 'Their path is not my path. I walk my own way.'",
+      "reflectionQuestion": "Whose success am I comparing myself to? Why?"
+    },
+    {
+      "day": 5,
+      "title": "Success Visualization",
+      "insight": "Success doesn't have to be terrifying. Visualize it as empowerment.",
+      "action": "Visualize your success. Not the pressure, not the expectations — the empowerment, the freedom, the possibilities.",
+      "reflectionQuestion": "What would success empower me to do?"
+    },
+    {
+      "day": 6,
+      "title": "The Growth Mindset",
+      "insight": "Success is growth. You become someone new. That's not a threat — that's an opportunity.",
+      "action": "When you feel fear about success, reframe it: 'I'm not ready for this version of me. I'm becoming it.'",
+      "reflectionQuestion": "What am I becoming through success?"
+    },
+    {
+      "day": 7,
+      "title": "Success Release",
+      "insight": "Release the fear that's holding you back. You are capable of more than you know.",
+      "action": "Write down your fear of success. Then write: 'I release this fear. I am capable. I am ready.'",
+      "reflectionQuestion": "What fear am I ready to release?"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "programId": "identity_7day",
+  "title": "7-Day Identity Shift",
+  "blockId": "identity_misalignment",
+  "duration": 7,
+  "description": "You're trying to change behaviors while still believing you're the person who doesn't do those things. This program helps you shift your identity.",
+  "outcomes": [
+    "Identify your current identity beliefs",
+    "Reframe your identity as someone who does",
+    "Act in alignment with your new identity"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "The Identity Audit",
+      "insight": "What do you believe about yourself? 'I'm lazy.' 'I'm undisciplined.' 'I can't do this.'",
+      "action": "Write down your identity beliefs. Then write: 'I am the type of person who...' for each.",
+      "reflectionQuestion": "What do I believe about myself?"
+    },
+    {
+      "day": 2,
+      "title": "Identity Reframe",
+      "insight": "You're not lazy — you're learning how to be disciplined. Identity is malleable.",
+      "action": "Take one negative identity belief. Reframe it: 'I am learning to be...' or 'I am becoming...'",
+      "reflectionQuestion": "How can I reframe this belief?"
+    },
+    {
+      "day": 3,
+      "title": "The Identity Action",
+      "insight": "Act as if you already are the person you want to be. Behavior follows identity.",
+      "action": "Do one thing today as if you already are the person you want to be. Speak, act, think like them.",
+      "reflectionQuestion": "What would my new identity do?"
+    },
+    {
+      "day": 4,
+      "title": "The Identity Language",
+      "insight": "The words you use shape your identity. Watch your language.",
+      "action": "Today, replace 'I have to' with 'I choose to.' Replace 'I am' with 'I am becoming.'",
+      "reflectionQuestion": "What words am I using about myself?"
+    },
+    {
+      "day": 5,
+      "title": "Identity Evidence",
+      "insight": "Your identity is built on evidence. Look for evidence that supports your new identity.",
+      "action": "Today, notice moments where you acted in alignment with your new identity. Write them down.",
+      "reflectionQuestion": "What evidence do I have of my new identity?"
+    },
+    {
+      "day": 6,
+      "title": "Identity Environment",
+      "insight": "You become the people around you. Surround yourself with your future identity.",
+      "action": "Connect with people who already embody the identity you want. Learn from them.",
+      "reflectionQuestion": "Who embodies the identity I want?"
+    },
+    {
+      "day": 7,
+      "title": "Identity Integration",
+      "insight": "Identity shift is an ongoing process. You're becoming someone new.",
+      "action": "Write a letter to your future self, describing the identity you're building.",
+      "reflectionQuestion": "Who am I becoming?"
+    }
+  ]
+}

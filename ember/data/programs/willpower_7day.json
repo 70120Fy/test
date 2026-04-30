@@ -1,0 +1,63 @@
+{
+  "programId": "willpower_7day",
+  "title": "7-Day Willpower Rebuild",
+  "blockId": "willpower_depletion",
+  "duration": 7,
+  "description": "Willpower is a finite budget. This program teaches you to spend it wisely and rebuild your willpower reserves.",
+  "outcomes": [
+    "Conserve willpower by designing your environment",
+    "Build willpower through small, consistent actions",
+    "Restore willpower through proper recovery"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "The Willpower Budget",
+      "insight": "Willpower is like money — once it's gone, it's gone. You need to budget it carefully.",
+      "action": "Identify your three most important willpower decisions today. Make them early when your willpower is fresh.",
+      "reflectionQuestion": "Where do I waste the most willpower?"
+    },
+    {
+      "day": 2,
+      "title": "Environment Design",
+      "insight": "Good habits happen automatically. Bad habits require willpower. Design your environment for success.",
+      "action": "Remove one friction point from your day. Make the right choice the easy choice.",
+      "reflectionQuestion": "What friction is draining my willpower?"
+    },
+    {
+      "day": 3,
+      "title": "The 10-Minute Rule",
+      "insight": "When you feel like giving up, wait 10 minutes. Willpower is not constant — it fluctuates.",
+      "action": "When you feel like quitting, wait 10 minutes. If you still want to quit after 10 minutes, then quit.",
+      "reflectionQuestion": "What would happen if I waited 10 minutes?"
+    },
+    {
+      "day": 4,
+      "title": "Habit Stacking",
+      "insight": "Habits run automatically, saving your willpower for when it really matters.",
+      "action": "Attach one new habit to an existing habit. 'After my morning coffee, I will meditate for 2 minutes.'",
+      "reflectionQuestion": "What habit can I stack onto an existing one?"
+    },
+    {
+      "day": 5,
+      "title": "The Decision Freeze",
+      "insight": "Every decision drains willpower. Reduce decisions to conserve willpower for what matters.",
+      "action": "Choose 3 decisions to make today at the start. No new decisions after 5 PM.",
+      "reflectionQuestion": "What decisions can I make now and never think about again?"
+    },
+    {
+      "day": 6,
+      "title": "Willpower Recovery",
+      "insight": "Willpower depletes throughout the day. You need to recover it regularly.",
+      "action": "Schedule 3 willpower recovery breaks today — each 15 minutes. No decisions, no tasks. Just rest.",
+      "reflectionQuestion": "When do I typically run out of willpower?"
+    },
+    {
+      "day": 7,
+      "title": "The Willpower Reset",
+      "insight": "At the end of the week, review your willpower budget. What worked? What drained you?",
+      "action": "Write down your willpower wins from this week. Plan your willpower budget for next week.",
+      "reflectionQuestion": "What will I do differently with my willpower next week?"
+    }
+  ]
+}
